@@ -8,9 +8,11 @@
     <td><img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/image2-1505745.png" width="70" height="70" alt="Metasploit"></td>
   </tr>
 
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/960px-Kali-dragon-icon.svg.png" width="70" height="70" alt="Kali Linux"></td>
-  </tr>
+  <p>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/960px-Kali-dragon-icon.svg.png" width="70" height="70" alt="Kali Linux"></td>
+    </tr>
+  </p>
 </table>
 
 <a href="https://git.io/streak-stats">
